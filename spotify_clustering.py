@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans # type: ignore
 # Fungsi untuk mengambil token (Anda dapat menggunakan token yang sudah didapatkan)
 def getToken():
     # Gunakan token yang sudah diberikan
-    return 'BQDkGWMaOOD8c6LRjVfUfTG2Vsneby03tfBq3S6t6Hge-NRG0Vq0IsgDzDj2DfIp-uDc1GZw6coxVLaeBHDrvitT_Cr_lFNmF40HYGXygcW68QiyiJs'
+    return 'BQDzB_PZCnSkwszkp8l2RDN5TiTc8hdcw_ZMJ5HPkYxXTDQ68ToSIOkqlzhyeeLb6wBBBR1_GipTDJSmEabtQhG2tIapUfbqah5tt1wMNruDvnYT1fA'
 
 # Fungsi untuk mengambil track dari playlist
 def getPlaylistItems(token, playlist_id):
